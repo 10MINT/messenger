@@ -1,7 +1,7 @@
 # textme-sources
 
 This is the only authorized place to download the sources of the TextMe pwoject.
-Visit the related [thunkable topic] for updates
+Visit the related [thunkable topic](https://community.thunkable.com/t/preview-textme-another-thunkable-instant-messenger/10465) for updates
 
 This project is licensed under CC-BY-NC license. Visit https://creativecommons.org/licenses/by-nc/4.0/ for more information.
 
