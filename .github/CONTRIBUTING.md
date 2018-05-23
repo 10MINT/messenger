@@ -1,1 +1,1 @@
-This is an open-source project, you are welcomed to collaborate!
+This is an open-source project, you are welcome to collaborate!
