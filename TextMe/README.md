@@ -11,13 +11,13 @@ how to set everything up. I also recommend using a custom FirebaseDB. Follow
 * It does not need to be scalable, because it is intended for private use
 
 ## Plans
-* end-to-end encryption -> encryption (see my [Proof of Concept](https://community.thunkable.com/t/secure-chat-proof-of-concept/18016))
-* More options when sending
-* Translations
-* Backup function
-* Group chat
-* Polls with Polldaddy
-* Authentification with phone number
+- [x] end-to-end encryption -> encryption (see my [Proof of Concept](https://community.thunkable.com/t/secure-chat-proof-of-concept/18016))
+- [ ] More options when sending
+- [x] Translations
+- [ ] Backup function
+- [ ] Group chat
+- [ ] Polls with Polldaddy
+- [x] Authentification with phone number
 
 ## Issues
 * The chat partners have to be in-app (without background tasks)
