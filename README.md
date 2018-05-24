@@ -16,7 +16,7 @@ All projects use Firebase to send text over wifi and HTML to render the chat. Th
 for Android and they rely on their components. However, SecureChat was designed to work in App Inventor as well
 
 This project is licensed under CC-BY-NC license. 
-Visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) for more information.
+Visit <https://creativecommons.org/licenses/by-nc/4.0/> for more information.
 
 ## Terms and conditions
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
