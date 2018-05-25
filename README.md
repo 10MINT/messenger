@@ -4,6 +4,8 @@ This is the only authorized place to download the sources of the TextMe project.
 My aim is to create an instant messenger with Thunkable.
 It has been splitted into 3 sub-projects
 
+<img src="assets/logo_round.png" width="100">
+
 * TextMe, an instant messenger with account system
    * Visit the related 
    [Thunkable topic](https://community.thunkable.com/t/preview-textme-another-thunkable-instant-messenger/10465) for updates
