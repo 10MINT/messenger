@@ -13,7 +13,7 @@ on how to set up a custom FirebaseDB.
 * To rename the chat, click your partner's name in the top bar
 * To change your default name and profile picture, click the top-right icon in the chat overview
 
-## Goals
+## Design Principles
 * Create a messenger without server code
 * KISS (Keep It Simple, Stupid)
 * Customization on the backend

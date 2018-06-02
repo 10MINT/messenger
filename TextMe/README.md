@@ -4,11 +4,14 @@ To use this project, you will need a Cloudinary Account. [Read here](https://doc
 how to set everything up. I also recommend using a custom FirebaseDB. Follow 
 [this tutorial](https://community.thunkable.com/t/firebase-and-where-to-put-it/713/2) on how to set up a custom FirebaseDB.
 
+## Design Principles
+* If it works, it ain't stupid
+* KISS (Keep It Simple, Stupid)
+* It does not need to be scalable, because it is intended for private use
+
 ## Goals
 * Create a messenger without server code
-* KISS (Keep It Simple, Stupid)
 * Customization
-* It does not need to be scalable, because it is intended for private use
 
 ## Plans
 - [x] end-to-end encryption -> encryption (see my [Proof of Concept](https://community.thunkable.com/t/secure-chat-proof-of-concept/18016))
