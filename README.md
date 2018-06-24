@@ -14,7 +14,7 @@ It has been splitted into 3 sub-projects
    for updates
 * TextSecure, an instant messenger with end-to-end encryption
 
-All projects use Firebase to send text over wifi and HTML to render the chat. The projects have been created with Thunkable 
+All projects use Firebase to store the messages and HTML to render the chat. The projects have been created with Thunkable 
 for Android and they rely on their FAB component. However, SecureChat was designed to work in App Inventor as well
 
 This is an open-source project, [help](.github/CONTRIBUTING.md) and [donations](//paypal.me/lennartwenke) are always welcome.
