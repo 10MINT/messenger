@@ -18,13 +18,3 @@ All projects use Firebase to store the messages and HTML to render the chat. The
 for Android and they rely on their FAB component. However, SecureChat was designed to work in App Inventor as well
 
 This is an open-source project, [help](.github/CONTRIBUTING.md) and [donations](//paypal.me/lennartwenke) are always welcome.
-
-This project is licensed under CC-BY-NC license. 
-Visit <https://creativecommons.org/licenses/by-nc/4.0/> for more information.
-
-## Terms and conditions
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
- THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
- CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
- DEALINGS IN THE SOFTWARE.
