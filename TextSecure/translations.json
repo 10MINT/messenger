@@ -12,7 +12,7 @@
 			"confirm_delete_text": "Are you sure that you want to delete this chat?",
 			"confirm_delete_choice1": "Yes",
 			"confirm_delete_choice2": "No",
-			"err_name_empty": "Name can't be empty",
+			"err_name_empty": "Name can't be empty and can't contain '@'",
 			"date_format": "MMM d, yyyy",
 			"chat_created": "Chat has been created"
 		},
@@ -21,7 +21,7 @@
 			"profile": "Profil",
 			"chats": "Chats",
 			"name": "Name",
-			"start": "START",
+			"start": "STARTEN",
 			"feature_unsupported": "Diese Funktion wird nicht unterstützt",
 			"image_upload": "Bitte warte bis dein Bild hochgeladen wurde",
 			"chat_hint": "Starte eine Konversation",
@@ -29,8 +29,25 @@
 			"confirm_delete_text": "Bist du sicher dass du diesen chat löschen möchtest?",
 			"confirm_delete_choice1": "Ja",
 			"confirm_delete_choice2": "Nein",			
-			"err_name_empty": "Name darf nicht leer sein",
+			"err_name_empty": "Name darf nicht leer sein und kein '@' enthalten",
 			"date_format": "d. MMM yyyy",
 			"chat_created": "Chat wurde erstellt"
+		},
+	"fr":
+		{
+			"profile": "Profil",
+			"chats": "Chats",
+			"name": "Nom",
+			"start": "COMMENCER",
+			"feature_unsupported": "Cet function n'est pas supportée",
+			"image_upload": "Attends que ton image est chargée, s'il te plaît",
+			"chat_hint": "Commence une conversation",
+			"confirm_delete_caption": "Effacer chat",
+			"confirm_delete_text": "Tu es sûre, que tu veux effacer cet chat?",
+			"confirm_delete_choice1": "Oui",
+			"confirm_delete_choice2": "Non",			
+			"err_name_empty": "Nom ne peut pas être vide et ne peut pas contenir '@'",
+			"date_format": "d. MMM yyyy",
+			"chat_created": "Chat crée"
 		}
 }
