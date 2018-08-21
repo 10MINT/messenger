@@ -32,17 +32,21 @@ Once you paired with your partner, the chat is end-to-end encrypted. Your media 
 * [QrCode](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#3) by @NmdOfficial
 * [Notifications](https://community.thunkable.com/t/new-notification-to-status-bar-extension/11722) by [tiziano1960](https://community.thunkable.com/u/tiziano1960/summary)
 * [cryptoextension](https://community.thunkable.com/t/free-another-aes-encryption-extension/9722) by [tiziano1960](https://community.thunkable.com/u/tiziano1960/summary)
+* [CropImage](https://community.thunkable.com/t/the-extension-of-cropping-the-image/39480) by [Ahmad_Mtrd](https://community.thunkable.com/u/Ahmad_Mtrd/summary)
 
 Thanks to all extension developers!
 
 ## Issues
 * The chat partners have to be in-app (without background tasks)
-* The WebViewer has a problem with fullscreen videos (see [this](https://community.thunkable.com/t/webviewer-problem-with-fullscreen-video/3083) post)
-* Sending videos is temporarily disabled, because the they crash the app
-* It can be a problem if screens are not closed correctly, this will be fixed in the next release
+* The WebViewer is not optimized for video play
 
 ## Developer's Guide
 * See the [wiki](https://github.com/10MINT/textme-sources/wiki)
 
 ## Changelog
 * 05/30/2018: Initial release of version 1.0
+  * No notification system
+* 08/21/2018: Release of version 2.0.1
+  * Bugfixes
+  * Introduced notification system
+  * Chats are not ordered
