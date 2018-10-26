@@ -44,9 +44,9 @@ Thanks to all extension developers!
 * See the [wiki](https://github.com/10MINT/textme-sources/wiki)
 
 ## Changelog
-* 05/30/2018: Initial release of version 1.0
-  * No notification system
 * 08/21/2018: Release of version 2.0.1
   * Bugfixes
   * Introduced notification system
   * Chats are not ordered
+* 05/30/2018: Initial release of version 1.0
+  * No notification system

@@ -26,7 +26,7 @@
 			"image_upload": "Bitte warte bis dein Bild hochgeladen wurde",
 			"chat_hint": "Starte eine Konversation",
 			"confirm_delete_caption": "Chat löschen",
-			"confirm_delete_text": "Bist du sicher dass du diesen chat löschen möchtest?",
+			"confirm_delete_text": "Bist du sicher dass du diesen Chat löschen möchtest?",
 			"confirm_delete_choice1": "Ja",
 			"confirm_delete_choice2": "Nein",			
 			"err_name_empty": "Name darf nicht leer sein und kein '@' enthalten",

@@ -16,4 +16,4 @@ It has been splitted into 3 sub-projects
 All projects use Firebase to store the messages and HTML to render the chat. The projects have been created with Thunkable 
 for Android and they rely on their FAB component. However, SecureChat was designed to work in App Inventor as well
 
-This is an open-source project, [help](.github/CONTRIBUTING.md) and [donations](//paypal.me/lennartwenke) are always welcome.
+This is an open-source project, [help](.github/CONTRIBUTING.md) is always welcome.
