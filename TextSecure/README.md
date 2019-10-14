@@ -27,9 +27,9 @@ Once you paired with your partner, the chat is end-to-end encrypted. Your media 
 ## Used Extensions
 * [FileAlt](https://github.com/10MINT/extensions/tree/master/FileAlt) by Me
 * [I18n](https://github.com/10MINT/extensions/tree/master/I18n) by Me
-* [ColinTreeListView](http://aix.colintree.cn/en/extensions/ColinTreeListView.html) by @ColinTree
-* [FirebaseStorage](https://community.thunkable.com/t/free-firebasestorage-extension/8544) by @mirxtrem-apps
-* [QrCode](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#3) by @NmdOfficial
+* [ColinTreeListView](http://aix.colintree.cn/en/extensions/ColinTreeListView.html) by [ColinTree](https://github.com/ColinTree)
+* [FirebaseStorage](https://community.thunkable.com/t/free-firebasestorage-extension/8544) by [mirxtrem-apps](https://github.com/mirxtrem-apps)
+* [QRCodeCreater](https://community.thunkable.com/t/create-qr-code-without-network/24261) by [Zhangzqs](https://community.thunkable.com/u/Zhangzqs/summary)
 * [Notifications](https://community.thunkable.com/t/new-notification-to-status-bar-extension/11722) by [tiziano1960](https://community.thunkable.com/u/tiziano1960/summary)
 * [cryptoextension](https://community.thunkable.com/t/free-another-aes-encryption-extension/9722) by [tiziano1960](https://community.thunkable.com/u/tiziano1960/summary)
 * [CropImage](https://community.thunkable.com/t/the-extension-of-cropping-the-image/39480) by [Ahmad_Mtrd](https://community.thunkable.com/u/Ahmad_Mtrd/summary)
