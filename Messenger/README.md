@@ -1,4 +1,4 @@
-# TextMe
+# Messenger
 visit [Thunkable](https://community.thunkable.com/t/preview-textme-another-thunkable-instant-messenger/10465) for more information.
 To use this project, you will need a Cloudinary Account. [Read here](https://docs.thunkable.com/android/components/storage/cloudinary-db.html), 
 how to set everything up. I also recommend using a custom FirebaseDB. Follow 
@@ -35,4 +35,4 @@ how to set everything up. I also recommend using a custom FirebaseDB. Follow
 Thanks to all extension developers!
 
 ## Changelog
-* 01/01/2018: Release of version 1
+* 01/01/2018: Release of version 0.1
